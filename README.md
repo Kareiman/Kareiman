@@ -1,10 +1,10 @@
 Hello
+
 I'm **Kareiman**, a passionate and results-driven **Data Analyst**
-With a strong background in **data analysis**, **visualization**, and **research**
-I use tools such as **Power BI**, **Tableau**, and **Excel**
+with a strong background in **data analysis**, **visualization**, and **research**
+I have experience in tools such as **Power BI**, **Tableau**, and **Excel**
 to extract insights from complex datasets.
-With a **Master's degree in Chemical Engineering and Petrochemicals**,
-my analytical journey spans various industries, including climate change and sustainability
+I have a **Master's degree in Chemical Engineering and Petrochemicals**
 Over the years, I've developed expertise in **SQL**, **R**, and **DAX**
 I have hands-on experience in web scraping, data cleaning, and creating dashboards.
 
@@ -23,5 +23,4 @@ In addition to my technical skills, I have a deep interest in **sustainable deve
 ## Contact
 
 - Email: [Kariman.Elkhalil@gmail.com](mailto:Kariman.Elkhalil@gmail.com)
-- Phone: +971558050984
-- Location: Dubai, UAE
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/kareiman-altayeb)
