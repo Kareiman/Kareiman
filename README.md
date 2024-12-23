@@ -12,8 +12,6 @@ I have experience in **data analysis**, **project management**, and **research**
 - 🧩 **Jigsaw puzzle**
 - 📺 **Watching documentaries**
 
-In addition to my technical skills, I have a deep interest in **sustainable development**
-
 ## Skills & Expertise
 
 - **Data Visualization** with Power BI, Tableau, and Excel
