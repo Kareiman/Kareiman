@@ -1,12 +1,16 @@
-Hello
+# Hello
 
-I'm **Kareiman**, a passionate and results-driven **Data Analyst**
-with a strong background in **data analysis**, **visualization**, and **research**
-I have experience in tools such as **Power BI**, **Tableau**, and **Excel**
-to extract insights from complex datasets.
-I have a **Master's degree in Chemical Engineering and Petrochemicals**
-Over the years, I've developed expertise in **SQL**, **R**, and **DAX**
-I have hands-on experience in web scraping, data cleaning, and creating dashboards.
+## About Me
+
+I am **Kareiman Altayeb**, a **chemical engineer with a master's degree in petrochemicals**
+I am passionate about **sustainability**, **climate change solutions**, and **recycling**.
+I have experience in **data analysis**, **project management**, and **research**.
+
+## My hobbies are
+
+- 📚 **Reading**
+- 🧩 **Jigsaw puzzle**
+- 📺 **Watching documentaries**
 
 In addition to my technical skills, I have a deep interest in **sustainable development**
 
@@ -19,6 +23,16 @@ In addition to my technical skills, I have a deep interest in **sustainable deve
 - **R Programming**, **Aspen HYSYS**
 - **Project Management** and report development
 - **Climate Change and Sustainable Development**
+
+## Certificates and courses
+
+- **Data Analysis Fundamentals** - Udacity
+- **Data Visualization for Data Analysis and Analytics** - NASBA
+- **Data Analysis and Visualization with Microsoft Power BI Nanodegree** - Udacity
+- **Google Data Analytics Professional Certificate** - Coursera
+- **Project Management during Emergencies** - UNEP
+- **Climate Reality Leader Training** - Climate Reality Leadership Corps
+- **ESG Risks and Opportunities** - Coursera
 
 ## Contact
 
