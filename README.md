@@ -2,9 +2,11 @@
 
 ## About Me
 
-I am **Kareiman Altayeb**, a **chemical engineer with a master's degree in petrochemicals**
-I am passionate about **sustainability**, **climate change solutions**, and **recycling**.
-I have experience in **data analysis**, **project management**, and **research**.
+I am **Kareiman Altayeb**, a **data Analyst**  with a background in **Chemical Engineering**
+and a passion for turning data into actionable insights.
+I’m dedicated to using **data analytics** to combat **climate change** and support
+**sustainability** efforts.
+I have experience in **data analysis**, **business intelligence**, and **research**.
 
 ## My hobbies are
 
@@ -18,7 +20,8 @@ I have experience in **data analysis**, **project management**, and **research**
 - **Data Analysis** and interpretation
 - **Microsoft Power BI**, **DAX**, **SQL**
 - **Research** and data gathering through web scraping
-- **R Programming**, **Aspen HYSYS**
+- **R Programming**
+- **Aspen HYSYS**
 - **Project Management** and report development
 - **Climate Change and Sustainable Development**
 
